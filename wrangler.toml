@@ -1,0 +1,11 @@
+name = "spinmacho-login-net"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinmacho-login.net"
+HMAC_KEY = "f0d5f3cec374f38915b6bb112ba82d6c6b6ac90aa3c2a8bb5f88a063ee865e59"
+COOKIE_NAME = "n9l"
+PLAY_PATH = "try"
+BUTTON_ID = "p8fdfe0e31786c225e04f697b3a4314cb"
+GATE_SALT = "8861880e0df86334"
